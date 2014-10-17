@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xtu:home|Door43 (xtu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xtu|d43-xtu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xtu/archive/master.zip|d43-xtu.zip]]
+
+**Recent Changes**
+{{changes>ns = xtu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xtu|Ethnologue data]]
+
